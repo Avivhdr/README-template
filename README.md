@@ -4,7 +4,6 @@
 2. [ Prerequisites ](#prer)
 2. [ Instructions ](#inst)
 2. [ Usage ](#use)
-
 <br />
 
 <a name="desc"></a>
@@ -25,19 +24,27 @@
 
 <a name="prer"></a>
 ## Prerequisites 
-Before you begin, ensure you have met the following requirements
-<br />
-[_list of requirements_]
+Before you begin, ensure you have met the following requirements:
+<!--- These are just example requirements. Add, duplicate or remove as required --->
+* You have read `<guide/link/documentation_related_to_project>`.
+* You have installed the latest version of `<coding_language/dependency/requirement_1>`
+* ...
 <br />
 
 <a name="inst"></a>
 ## Instructions
-This is how to run/build/add PROJECT X:
+To install <project_name>, follow these steps:
+
+```
+<install_command>
+```
 <br />
-[_instructions_]
 
 <a name="use"></a>
-## Usage:
-This is how to use PROJECT X
+## Using <project_name>
+To use PROJECT X, follow these steps:
+```
+<usage_example>
+```
 [_If the project has an API, this is the place to go into details about it_]
 <br />
