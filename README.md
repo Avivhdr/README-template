@@ -1,5 +1,4 @@
 # PROJECT X
-![GitHub repo size](https://img.shields.io/github/repo-size/Avivhdr/README-template.md)
 
 1. [ Description ](#desc)
 2. [ Prerequisites ](#prer)
